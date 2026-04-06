@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "43555d15e356a3cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c95bf55501fcb776",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa522f11f967757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prueba_androud.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prueba_androud"
+            }
+          },
+          {
+            "id": "3b044409816f6081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PriebaAndroid2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PriebaAndroid2"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77da308bdd52f477",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ef6a9a0b7383cb2d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      },
+      {
+        "id": "564eb8913e7a9776",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "eb335203404fcd1d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "b48213f3d4192219",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas las propiedades"
+        }
+      },
+      {
+        "id": "c9531e3d2c2181be",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "92e5f4ab339c2689",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "405b21be69c2a336",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "PriebaAndroid2.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Enlaces entrantes"
+        }
+      },
+      {
+        "id": "2d33651e7e176434",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Prueba_androud.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Enlaces salientes"
+        }
+      },
+      {
+        "id": "2ab7b43c2e917f43",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Prueba_androud.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Esquema"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "3b044409816f6081",
+  "lastOpenFiles": [
+    "pruebaOrdenador2.md",
+    "Prueba_androud.md",
+    "PriebaAndroid2.md",
+    "tarea1.md",
+    "tarea2.md",
+    "prueba3.md",
+    "Bienvenido.md",
+    "prueba_05_04_2026.md",
+    "prueba2.md"
+  ]
+}

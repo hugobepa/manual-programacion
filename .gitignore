@@ -1,0 +1,18 @@
+# Archivos temporales de Windows
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Caché de Obsidian (no los plugins)
+.obsidian/plugins/*/cache/*
+
+# Archivos de Google Docs (no son archivos reales)
+*.gdoc
+*.gslides
+*.gsheet
+
+# Temporales
+*.tmp
+*.bak

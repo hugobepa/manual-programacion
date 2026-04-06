@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"8a3f1885424b4a05","x":120,"y":-235,"width":250,"height":180,"color":"3","type":"text","text":"## JavaScript\n\n- var, let, const\n- Hoisting: sí\n- Tipado dinámico"},
+		{"id":"c80e6efa1aaa7d76","x":-240,"y":-220,"width":250,"height":165,"color":"3","type":"text","text":"## Python\n\n- name = value\n- Sin keywords\n- Tipado dinámico"},
+		{"id":"52988a1f421c754e","x":-600,"y":-235,"width":250,"height":190,"color":"3","type":"text","text":"## Go\n\n- var x int\n- x := value\n- Tipado estático"},
+		{"id":"fab56d8f4f11ffdb","x":-280,"y":120,"width":250,"height":185,"color":"4","type":"text","text":"## ✅ Buenas Prácticas\n\n- Nombres descriptivos\n- const por defecto\n- Evitar globales"},
+		{"id":"a35b8f902674a1fd","x":-300,"y":-580,"width":250,"height":180,"color":"1","type":"text","text":"# 📦 Concepto: Variable\n\nEspacio en memoria para almacenar datos"}
+	],
+	"edges":[
+		{"id":"6b96d4cd4f4c2949","fromNode":"a35b8f902674a1fd","fromSide":"bottom","toNode":"8a3f1885424b4a05","toSide":"top"},
+		{"id":"dee7f253b5534b05","fromNode":"a35b8f902674a1fd","fromSide":"bottom","toNode":"c80e6efa1aaa7d76","toSide":"top"},
+		{"id":"f214aa48efa535b1","fromNode":"a35b8f902674a1fd","fromSide":"bottom","toNode":"52988a1f421c754e","toSide":"top"},
+		{"id":"11ef236dca9d7bd4","fromNode":"52988a1f421c754e","fromSide":"bottom","toNode":"fab56d8f4f11ffdb","toSide":"top"},
+		{"id":"f318e14eb46884ea","fromNode":"c80e6efa1aaa7d76","fromSide":"bottom","toNode":"fab56d8f4f11ffdb","toSide":"top"},
+		{"id":"57689dd4d41e7731","fromNode":"8a3f1885424b4a05","fromSide":"bottom","toNode":"fab56d8f4f11ffdb","toSide":"top"}
+	]
+}
