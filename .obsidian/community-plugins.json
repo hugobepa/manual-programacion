@@ -2,5 +2,10 @@
   "obsidian-excalidraw-plugin",
   "dataview",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "copilot",
+  "obsidian-local-rest-api",
+  "image-converter",
+  "omnisearch",
+  "text-extractor"
 ]
