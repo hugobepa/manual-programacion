@@ -16,3 +16,9 @@ Thumbs.db
 # Temporales
 *.tmp
 *.bak
+
+.obsidian/
+*.workspace.json
+copilot/
+.mcp-obsidian
+desktop.ini
